@@ -1,12 +1,79 @@
 # Portafolio-Ciencia-Datos
+Car Price Dataset - Análisis y Modelado Predictivo
 
-# Analisis_Exploratorio_Car_Price_dataset
-# Descripcion
-Este proyecto utiliza un dataset con información sobre 10,000 vehículos para predecir el precio de un auto basado en características como la marca, modelo, año, tamaño del motor, tipo de combustible, transmisión, kilometraje, número de puertas, y cantidad de propietarios previos. Incluye análisis exploratorio de datos (EDA).
+Este repositorio contiene dos proyectos demostrativos basados en el Car Price Dataset, un conjunto de datos con información sobre 10,000 vehículos y sus principales características que influyen en su precio de mercado.
 
-#  Modelado Predictivo de Precios de Autos
-# Descripcion
-Es la creacion del  modelo predictivo apartir del dataset de kaggle.
+# Contenido del Repositorio
+
+1. Análisis Exploratorio de Datos (EDA)
+
+Archivo: Analisis_Exploratorio_Car_Price_dataset.ipynb
+
+Realiza un análisis detallado de las variables del dataset.
+
+Explora la distribución de los precios de los autos.
+
+Examina la relación entre factores como la marca, el año de fabricación, el tipo de combustible y el precio.
+
+Incluye visualizaciones para facilitar la interpretación de los datos.
+
+2. Modelado Predictivo de Precios de Autos
+
+Archivo: Modelado_Predictivo_de_Precios_de_Autos.ipynb
+
+Aplica técnicas de Machine Learning para predecir el precio de un auto en base a sus características.
+
+Utiliza modelos de regresión y compara su desempeño.
+
+Evalúa métricas de error para determinar la precisión de las predicciones.
+
+Descripción del Dataset
+
+El dataset incluye la siguiente información sobre cada vehículo:
+
+Brand: Marca del auto (Ejemplo: Toyota, BMW, Ford).
+
+Model: Modelo del auto (Ejemplo: Corolla, Focus, X5).
+
+Year: Año de fabricación (Ejemplo: 2005, 2018, 2023).
+
+Engine_Size: Tamaño del motor en litros (Ejemplo: 1.6, 2.0, 3.5).
+
+Fuel_Type: Tipo de combustible (Petrol, Diesel, Hybrid, Electric).
+
+Transmission: Tipo de transmisión (Manual, Automática, Semi-Automática).
+
+Mileage: Kilometraje del auto en kilómetros (Ejemplo: 15,000, 75,000, 230,000).
+
+Doors: Número de puertas (Ejemplo: 2, 3, 4, 5).
+
+Owner_Count: Número de dueños previos (Ejemplo: 1, 2, 3, 4).
+
+Price: Precio estimado de venta del auto (Ejemplo: 5,000, 15,000, 30,000).
+
+Requisitos
+
+Para ejecutar los notebooks, necesitas instalar las siguientes librerías de Python:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+Uso
+
+Clona este repositorio:
+
+git clone https://github.com/tu_usuario/nombre_repositorio.git
+
+Abre los notebooks en Jupyter Notebook o Google Colab.
+
+Ejecuta las celdas y explora los análisis y modelos.
+
+# Autor Hector vejar casillas
+
+Este repositorio ha sido desarrollado como parte de mi portafolio para demostrar habilidades en análisis de datos y Machine Learning.
+
+Si te interesa el proyecto, no dudes en darle una estrella ⭐ y contribuir con mejoras.
+
+
 
 # Fuentes:
 Dataset:  https://www.kaggle.com/datasets/asinow/car-price-dataset
