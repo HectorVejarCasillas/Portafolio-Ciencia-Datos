@@ -1,7 +1,7 @@
 # Portafolio-Ciencia-Datos
 Car Price Dataset - Análisis y Modelado Predictivo
 
-Este repositorio contiene dos proyectos demostrativos basados en el Car Price Dataset, un conjunto de datos con información sobre 10,000 vehículos y sus principales características que influyen en su precio de mercado.
+Este repositorio contiene tres proyectos demostrativos basados en el Car Price Dataset y Brain tumor dataset, un conjunto de datos con información sobre 10,000 vehículos y sus principales características que influyen en su precio de mercado y brain tumor dataset que contiene datos simulados para diagnostico de tumores malignos y benignos.
 
 # Contenido del Repositorio
 
