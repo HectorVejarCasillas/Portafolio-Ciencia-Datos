@@ -61,7 +61,7 @@ Uso
 
 Clona este repositorio:
 
-git clone [https://github.com/tu_usuario/nombre_repositorio.git](https://github.com/HectorVejarCasillas/Portafolio-Ciencia-Datos)
+git clone https://github.com/HectorVejarCasillas/Portafolio-Ciencia-Datos
 
 Abre los notebooks en Jupyter Notebook o Google Colab.
 
